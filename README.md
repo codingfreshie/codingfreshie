@@ -12,7 +12,7 @@
 - 🔭 Currently working on: **LLM-powered code history analysis with knowledge graphs**
 - 🌱 Currently learning: **quantitative finance, cloud security, graph databases**
 - 💬 Ask me about: **C/C++, Python, compilers, algorithmic trading, LLMs**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **mneeharika9@gmail.com**
 
 ---
 
@@ -56,7 +56,7 @@ Cloud computing lab assignment (forked and extended).
 
 ### 🤝 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-id)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mneeharika9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeharika-maram/)
 
 <p align="center">⭐ Found something useful? Star a repo!</p>
