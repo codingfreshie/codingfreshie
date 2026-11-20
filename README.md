@@ -31,19 +31,20 @@
 
 ### 🚀 Featured Projects
 
-#### 📈 [Futures Cash-and-Carry Arbitrage Backtester](https://github.com/codingfreshie/Cost-of-Carry-Futures-Arbitrage-Backtester) · `C++`
-Detects and backtests cash-and-carry arbitrage between the S&P 500 index and E-mini futures using the cost-of-carry model (`F = S·e^((r−q)T)`). Includes net-profit analysis with transaction costs on 250 trading days of 2023 data.
-
-#### 🧠 [Codebase Evolution Insight Tool](https://github.com/codingfreshie/llm-project) · `Python`
-Builds a causal & temporal knowledge graph (Neo4j) from commits, PRs and issues so an LLM can answer *why* code changed, not just what it does.
-
-#### ⚙️ [Compiler Construction Project](https://github.com/codingfreshie/Coco-project) · `C`
-Lexer, parser and driver built for CS F363 (Compiler Construction) at BITS Pilani, with custom test cases and a Makefile build.
+#### 🤖 [Portfolio Agent](https://github.com/codingfreshie/YOUR-PORTFOLIO-AGENT-REPO) · `[tech]`
+[One or two lines: what it does, e.g. an AI agent that answers questions about my work and projects.]
 
 #### ☁️ [Cloud Security Ingester](https://github.com/codingfreshie/Cloud-Security-Ingester) · `JavaScript`
 Cloud computing lab assignment (forked and extended).
 
----
+#### 💬 [Repo Chat](https://github.com/codingfreshie/YOUR-REPO-CHAT-REPO) · `[tech]`
+[One or two lines: what it does, e.g. chat with any GitHub repo to understand its code.]
+
+#### 📈 [Futures Cash-and-Carry Arbitrage Backtester](https://github.com/codingfreshie/Cost-of-Carry-Futures-Arbitrage-Backtester) · `C++`
+Detects and backtests cash-and-carry arbitrage between the S&P 500 index and E-mini futures using the cost-of-carry model (`F = S·e^((r−q)T)`). Includes net-profit analysis with transaction costs on 250 trading days of 2023 data.
+
+#### ⚙️ [Compiler Construction Project](https://github.com/codingfreshie/Coco-project) · `C`
+Lexer, parser and driver built for CS F363 (Compiler Construction) at BITS Pilani, with custom test cases and a Makefile build.
 
 ### 📊 GitHub Stats
 
